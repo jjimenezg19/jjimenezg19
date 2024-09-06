@@ -1,6 +1,6 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="center">Hi there, I'm Johan 👋</h2>
 
-![Johan Banner](/assets/banner_johan.png)
+![Johan Banner](/assets/johan_banner.png)
 
 
 
