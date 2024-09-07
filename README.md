@@ -7,7 +7,6 @@
 <br><br>
 
 ### 👨🏻‍💻 &nbsp;About Me
-
 <br><br>
 
 - :school: I have a `Technical Degree in Software Development` at [Universidad Cenfotec](https://ucenfotec.ac.cr).
