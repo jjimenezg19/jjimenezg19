@@ -2,7 +2,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%2380ffd4&size=32&center=true&vCenter=true&width=600&height=50&lines=Hey+there,+I'm+Johan!+%F0%9F%91%8B;Software+Engineer+Student.;Full-Stack+Developer." alt="Headline" />
 </div>
 
-![Johan Banner](/assets/johan_banner.png)
+![Johan Banner](/assets/Johan%20Banner.png)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jjimenezg242/)
 
