@@ -3,6 +3,8 @@
 </div>
 
 ![Johan Banner](/assets/johan_banner.png)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jjimenezg242/)
 
 ## 🚀 About Me
 
@@ -42,7 +44,7 @@
 
 <a href="https://github.com/jjimenezg19">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jjimenezg19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mikadifo&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjimenezg19&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
 
