@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-- :school: I have a `Technical Degree in Software Development` at [Universidad Cenfotec](https://ucenfotec.ac.cr).
+- :school: I got a `Technical Degree in Software Development` at [Universidad Cenfotec](https://ucenfotec.ac.cr).
+- :computer: Full-Stack `Developer`.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently pursuing my `Bachelor’s degree in Software Engineering`.
-- :nerd_face: Always `learning new things`.
+- :nerd_face: English `Proficiency (C1)`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](www.linkedin.com/in/jjimenezg242).
 - :boom: Please visit [MY WEBSITE]().
 
@@ -40,6 +40,9 @@
     </a>
 </p>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=mikadifo&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="mikadifo" />
+<a href="https://github.com/jjimenezg19">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
 
