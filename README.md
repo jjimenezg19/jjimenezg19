@@ -4,8 +4,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%2380ffd4&size=32&center=true&vCenter=true&width=600&height=50&lines=Hey+there,+I'm+Johan!+%F0%9F%91%8B;Software+Engineer+Student.;Full-Stack+Developer." alt="Headline" />
 </div>
 
-<br>
- ![Johan Banner](/assets/johan_banner.png)
+<br> ![Johan Banner](/assets/johan_banner.png)
 
 
 
