@@ -1,12 +1,11 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
- ![Johan Banner](/assets/johan_banner.png)
-
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%2380ffd4&size=32&center=true&vCenter=true&width=600&height=50&lines=Hey+there,+I'm+Johan!+%F0%9F%91%8B;Software+Engineer+Student.;Full-Stack+Developer." alt="Headline" />
 </div>
 
-
+<br>
+ ![Johan Banner](/assets/johan_banner.png)
 
 
 
@@ -22,7 +21,7 @@
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](www.linkedin.com/in/jjimenezg242).
 - :boom: Please visit [MY WEBSITE]().
-<br>
+
 
 
 
