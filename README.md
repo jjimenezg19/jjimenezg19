@@ -6,12 +6,7 @@
 
 <br> ![Johan Banner](/assets/johan_banner.png)
 
-
-
-
-
-
-### 👨🏻‍💻 &nbsp;About Me
+## 🚀 About Me
 
 - :school: I have a `Technical Degree in Software Development` at [Universidad Cenfotec](https://ucenfotec.ac.cr).
 - :technologist: I love using Software as a solution for every `Problem`.
