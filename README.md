@@ -1,4 +1,9 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+<br>
+
+
+![Johan Banner](/assets/johan_banner.png)
+
+<br>
 
 <div>
     <div align=center>
@@ -15,12 +20,7 @@
 
 
 
-<br>
 
-
-![Johan Banner](/assets/johan_banner.png)
-
-<br>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
