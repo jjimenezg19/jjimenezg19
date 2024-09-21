@@ -50,4 +50,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjimenezg19&layout=compact&langs_count=100&theme=algolia&cache_seconds=86400"/>
 </div>
 
-
