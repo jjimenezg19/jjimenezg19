@@ -42,9 +42,17 @@
     </a>
 </p>
 
-<a href="https://github.com/jjimenezg19">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jjimenezg19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjimenezg19&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; align-items: center;">
+  <!-- Stats Card -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jjimenezg19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=86400&hide=issues,contribs"/>
+  
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjimenezg19&layout=compact&langs_count=8&theme=algolia&cache_seconds=86400"/>
+</div>
+
+<!-- Optional: Pin a Specific Repository -->
+<div style="display: flex; justify-content: center; flex-wrap: wrap; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jjimenezg19&repo=mi-proyecto"/>
+</div>
 
 
