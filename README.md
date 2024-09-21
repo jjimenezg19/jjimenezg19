@@ -37,6 +37,9 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40" />
     </a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+    </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
     </a>
@@ -44,6 +47,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
     </a>
 </div>
+
 <div style="display: flex; justify-content: center; flex-wrap: wrap; align-items: center;">
   <!-- Stats Card -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jjimenezg19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=86400&hide=issues,contribs"/>
