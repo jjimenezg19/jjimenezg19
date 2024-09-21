@@ -52,7 +52,8 @@
 
 <!-- Optional: Pin a Specific Repository -->
 <div style="display: flex; justify-content: center; flex-wrap: wrap; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jjimenezg19&repo=GymApp"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jjimenezg19&repo=LatinoTransitSolutions---Frontend
+"/>
 </div>
 
 
