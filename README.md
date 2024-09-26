@@ -15,7 +15,8 @@
 - :nerd_face: English `Proficiency (C1)`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](www.linkedin.com/in/jjimenezg242).
 - :boom: Please visit [MY WEBSITE]().
-<br/>
+
+
 ## 🛠 Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
