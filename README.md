@@ -15,7 +15,7 @@
 - :nerd_face: English `Proficiency (C1)`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](www.linkedin.com/in/jjimenezg242).
 - :boom: Please visit [MY WEBSITE]().
-
+<br/>
 ## 🛠 Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -53,7 +53,7 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
 </div>
-<br />
+<br/>
 <div style="display: flex; justify-content: center; flex-wrap: wrap; align-items: center;">
   <!-- Stats Card -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jjimenezg19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=86400&hide=issues,contribs"/>
