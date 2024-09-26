@@ -53,7 +53,7 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
 </div>
-
+<br />
 <div style="display: flex; justify-content: center; flex-wrap: wrap; align-items: center;">
   <!-- Stats Card -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jjimenezg19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=86400&hide=issues,contribs"/>
