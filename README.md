@@ -14,7 +14,7 @@
 - :student: I’m currently pursuing my `Bachelor’s degree in Software Engineering`.
 - :nerd_face: English `Proficiency (C1)`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](www.linkedin.com/in/jjimenezg242).
-- :boom: Please visit [MY WEBSITE]().
+- :boom: Please visit [MY WEBSITE](https://jjimenezg19.github.io/johan_portafolio/).
 
 
 ## 🛠 Skills
